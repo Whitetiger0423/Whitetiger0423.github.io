@@ -1,37 +1,19 @@
-## Welcome to my GitHub Page
+## Whiteteam Homepage
 
-You can use the [editor on GitHub](https://github.com/Whitetiger0423/Whitetiger0423.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About Whiteteam
+Whiteteam is a team that making https://discord.com/oauth2/authorize?client_id=782777035898617886&permissions=8&scope=bot[a discord bot]. If you can use Python and Korean, you can https://discord.gg/aebSVBgzuG[join our team]!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Member lists
+-https://github.com/Whitetiger0423[Whitetiger]
+-https://github.com/PArangSae[PArangSae]
+-https://github.com/YonginStudent[Yongin Student]
+-https://github.com/1234567890-coll[emaybe7]
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bot Source Codes
+Because of Running 24 hour, codes are in https://replit.com[replit].
+-https://replit.com/@Whiteteam/WhiteBot[WhiteBot]
+-https://replit.com/@Whiteteam/WhiteBot-Beta[WhiteBot-Beta]
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Whitetiger0423/Whitetiger0423.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Inviting Bots
+-https://discord.com/oauth2/authorize?client_id=782777035898617886&permissions=8&scope=bot[Invite WhiteBot]
