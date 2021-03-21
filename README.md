@@ -7,7 +7,6 @@ Whiteteam is a team that making [a discord bot](https://discord.com/oauth2/autho
 - [Whitetiger](https://github.com/Whitetiger0423)
 - [PArangSae](https://github.com/PArangSae)
 - [Yongin Student](https://github.com/YonginStudent)
-- [emaybe7](https://github.com/1234567890-coll)
 
 
 ### Bot Source Codes
