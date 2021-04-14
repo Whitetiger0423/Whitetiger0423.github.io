@@ -19,3 +19,5 @@ Whiteteam은 [디스코드 챗봇](https://discord.com/oauth2/authorize?client_i
 
 ### 봇 초대하기
 - [Invite WhiteBot](https://discord.com/oauth2/authorize?client_id=782777035898617886&permissions=8&scope=bot)
+
+[개인정보 처리방침](/privacy)
