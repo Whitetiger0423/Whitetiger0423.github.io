@@ -18,4 +18,4 @@ White_team에서는 아래와 같은 이유로 사용합니다. 또한 아래에
 #### 5. 기타 문의
 디스코드 내에서 @Whiteitger#9841에게 DM을 보내거나, [White_team 공식 디스코드 서버](https://discord.gg/aebSVBgzuG)에서 기타 문의를 할 수 있습니다.
 
-[개인정보 처리방침](http://whiteteam.kro.kr)
+[개인정보 처리방침](http://whiteteam.kro.kr/privacy)
